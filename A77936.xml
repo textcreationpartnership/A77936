@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the undue, and greatly injurious proceedings of one Edward Bullock, late petitioner unto the Parliament of England, against one VVilliam Standen, Esq. humbly presented unto the Parliament of England / by William Ball, Esq.</title>
+            <author>Ball, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77936</idno>
+            <idno type="STC">Wing B597A</idno>
+            <idno type="STC">ESTC R223494</idno>
+            <idno type="EEBO-CITATION">38875964</idno>
+            <idno type="OCLC">ocm 38875964</idno>
+            <idno type="VID">152186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152186)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2282:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the undue, and greatly injurious proceedings of one Edward Bullock, late petitioner unto the Parliament of England, against one VVilliam Standen, Esq. humbly presented unto the Parliament of England / by William Ball, Esq.</title>
+                  <author>Ball, William.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Prined [sic] in the Yeare, 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bullock, Edward.</term>
+               <term>Standen, William.</term>
+               <term>Land tenure --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152186:1"/>
+            <p>A TRUE NARRATIVE OF The undue, and greatly injurious Pro<g ref="char:EOLhyphen"/>ceedings of one <hi>Edward Bullock,</hi> late Petitioner unto the <hi>Parliament of ENGLAND.</hi>
+            </p>
+            <p>Againſt one <hi>VVilliam Standen,</hi> Eſq.</p>
+            <p>Humbly Preſented unto <hi>The Parlia<g ref="char:EOLhyphen"/>ment of</hi> ENGLAND, By WILLIAM BALL, Eſq.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Prined in the Yeare, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152186:2"/>
+            <pb n="1" facs="tcp:152186:2"/>
+            <head>A true Narrative of the undue, and greatly injurious Proceedings of one <hi>Edward Bullock,</hi> late Petitioner unto the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> againſt one <hi>William Standen,</hi> Eſq.</head>
+            <p>
+               <seg rend="decorInit">O</seg>Ne <hi>Edward Bullock</hi> in <hi>No<g ref="char:EOLhyphen"/>vember,</hi> 1650. exhibited his Petition to the Parliament of <hi>England,</hi> ſetting forth, <hi>that one</hi> Thomas Bullock <hi>his <g ref="char:V">Ʋ</g>nkle, had Morgaged the Mannors of</hi> Arberfeld, <hi>and</hi> Barkham <hi>in the County of</hi> Berks, <hi>unto one</hi> Edmund Standen <hi>for</hi> 4000l. <hi>with Power of Re<g ref="char:EOLhyphen"/>demption: And that by corrupt, and foule Practices between the ſaid</hi> Edmund Standen, <hi>and the Lord Keeper</hi> Egerton, <hi>the ſaid Morgage was Ratified, on the be<g ref="char:EOLhyphen"/>halfe of the ſaid</hi> Edmond Standen, <hi>with<g ref="char:EOLhyphen"/>out Paying any farther conſideration for the ſaid Mannors: And Prayed that
+<pb n="2" facs="tcp:152186:3"/>the whole Proceedings touching the ſaid unjuſt Decree, And the corrupt Pratices in obtaining thereof, might be Referred to a Committee to Examine.</hi>
+            </p>
+            <p>VVhereupon the Parliament by their Order, the 7. of <hi>November</hi> 1650. did refer the ſaid Petition unto the Ho<g ref="char:EOLhyphen"/>nourable Committee for Indempnity, <hi>to Examine with Power to ſend for Perſons, Papers, and Records, and to conſider the length of Time, and how far forth the mat<g ref="char:EOLhyphen"/>ter was fit for Reliefe, and to give their Opinions therein, and report it unto the Houſe.</hi>
+            </p>
+            <p>At the Hearing of the ſaid cauſe be<g ref="char:EOLhyphen"/>fore the ſaid Committee, on Thurſday the 20 of <hi>Macch,</hi> 1650. the ſaid <hi>Edward Bullock</hi> made no Proofe at all either of any Morgage, or corrupt Decree upon any Bill for Redemption, much leſſe made he any ſhew of Proofe or Cor<g ref="char:EOLhyphen"/>ruption in obtaining the ſame Decree;
+<pb n="3" facs="tcp:152186:3"/>The Councell of the ſaid <hi>Edward</hi> then ingeniouſly confeſsing, that they had miſtaken their caſe in the ſaid Petition, and did then inſiſt upon a pretended Title at Law, by vertue of a certaine Conveyance, made by the ſaid <hi>Thomas Bullock,</hi> before the Sale of the ſaid Lands, made unto the aforeſaid <hi>Edmund Standen;</hi> And alſo pretending that the ſaid Lands were underſold; although the ſaid Petitioner, and his Councell very well knew, as it was then by Councell made appeare, on the behalf of <hi>Standen</hi> the Defendant, that the ſaid Precedent conveyance, was adjudged fraudulent, and within the Relief of the Statute of 29. <hi>Eliz.</hi> (<hi>as being made with Power of Revocation, and with full intent to defraud any Purchaſer from him the ſaid</hi> Thomas Bullock; as by ſeverall De<g ref="char:EOLhyphen"/>crees exemplified under the Great Seale it doth, and may appeare) and it was ſo
+<pb n="4" facs="tcp:152186:4"/>Reſolved by the Judges of <hi>England</hi> upon ſolemne Debate, and remaineth ſo reported in Sir <hi>Edward Cook</hi> his third Book, in <hi>Twines</hi> caſe (<hi>Standen</hi> and <hi>Bul<g ref="char:EOLhyphen"/>lock</hi>) and great reaſon there was, for the Judges gave Reſolution on the caſe mentioned; <hi>for he, or they who make a</hi>
+               <q>
+                  <hi>Deed of Conveyance for Lands</hi> with pow<g ref="char:EOLhyphen"/>er of Revocation, <hi>doe when they Bar<g ref="char:EOLhyphen"/>gaine, and ſell ſuch Lands</hi> Implicitely, <hi>though not</hi> Explicitely revoke ſuch for<g ref="char:EOLhyphen"/>mer Act and Deed; <hi>in regard the vertue of a Precedent</hi> Revocable <hi>Act, is deter<g ref="char:EOLhyphen"/>minable by the vertue of a ſubſequent</hi> Abſolute <hi>Act.</hi>
+               </q> Now let any indifferent Rationall man judge whether the ſaid <hi>Edward Bullock,</hi> were not moſt Impu<g ref="char:EOLhyphen"/>dent to ſet forth in his Petition a <hi>Mor<g ref="char:EOLhyphen"/>gage, and corrupt Decree,</hi> and afterwards to plead a Pretended fraudulent Title, and that after threeſcore years, and up<g ref="char:EOLhyphen"/>wards? But <hi>Bullock</hi> ſuggeſted the mat<g ref="char:EOLhyphen"/>ter
+<pb n="5" facs="tcp:152186:4"/>of <hi>Morgage, and corrupt Decree</hi> in his Petition, craftily knowing or belie<g ref="char:EOLhyphen"/>ving, that otherwaies his Petition would not have been <hi>Read, and Referred</hi> by the Parliament: however of what ill conſequence it may prove, that any ſhould be permitted to venture ſo au<g ref="char:EOLhyphen"/>daciouſly to abuſe the Parliament <hi>with matter of untruth,</hi> I ſubmit it unto their Grave cenſures; as alſo whether it be conſonant to Religion, or Reaſon, that the Lord Keeper <hi>Egerton</hi> ſhould be ſcandalized <hi>with corrupt and foule practi<g ref="char:EOLhyphen"/>ces,</hi> to the Diſhonour of his Family, and poſterity; &amp; that Owners, &amp; Proprietors of Lands ſhould be damnified, or mo<g ref="char:EOLhyphen"/>leſted by falſe and clamorous Petitions.</p>
+            <p>At the Hearing aforeſaid, <hi>Standen</hi> the Defendant made it appeare before the ſaid Committee, that <hi>Thomas Bul<g ref="char:EOLhyphen"/>lock</hi> in the Petition mentioned had ſold the ſaid Mannors, and Lands outright
+<pb n="6" facs="tcp:152186:5"/>unto <hi>Edmund Standen,</hi> Eſq. for 4000l. by Deed of Bargaine and Sale acknow<g ref="char:EOLhyphen"/>ledged, and Enrolled the 12. day of <hi>June,</hi> in the 31. yeare of Q. <hi>Elizabeth,</hi> with Fines, and Recoveries, and releaſe of Intereſt with warranty;<note n="*" place="margin">It was made appeare at the Hearing, by Bill, and An<g ref="char:EOLhyphen"/>ſwer, Exem<g ref="char:EOLhyphen"/>plified under the Great Seale of Queene <hi>Eli<g ref="char:EOLhyphen"/>zabeth, That</hi> Bullock <hi>did ac<g ref="char:EOLhyphen"/>knowledge</hi> Ed<g ref="char:EOLhyphen"/>mund Standen <hi>to have beene the beſt Chapman he could meet with<g ref="char:EOLhyphen"/>all, upon valua<g ref="char:EOLhyphen"/>able conſiderati<g ref="char:EOLhyphen"/>on for the ſaid Lands.</hi>
+               </note> Alſo that the ſaid <hi>Thomas Bullock</hi> had a Deed of De<g ref="char:EOLhyphen"/>feaſance of the Mannors, and Lands ſet forth in the Petition, for, and during the Tearm of his naturall life, yeelding, and paying unto the aforeſaid <hi>Edmund Standen,</hi> his Heires or Aſsignes, but 150l. yearely; alſo that the wife of the ſaid <hi>Thomas</hi> had Right, and did for Di<g ref="char:EOLhyphen"/>vers years enjoy Right of Dower; more<g ref="char:EOLhyphen"/>over that four Leaſes at the time of the ſale of the aforeſaid Mannors, and Lands, were in being upon underva<g ref="char:EOLhyphen"/>lue. <hi>Bullock</hi> the Petitioner, at the ſaid Hearing, by certaine Depoſitions taken in the Country, ſince the exhibiting of his Petition (moſt of the Deponents
+<pb n="7" facs="tcp:152186:5"/>☞ being of his owne Kinred, or name) made appeare onely <hi>Hereſayes,</hi> as that ſuch an one had heard ſay, that the Mannors and Lands were Morgaged by <hi>Thomas Bullock</hi> aforeſaid, unto the aforeſaid <hi>Edmund Standen;</hi> that ſuch, and ſuch had heard ſay, that the Lands were worth 800l. <hi>per ann.</hi> yearly Rent; that they had heard ſay, that the woods were worth, ſayes one 7. another 8. a<g ref="char:EOLhyphen"/>nother 9000l. for not any two of them agree in any one thing of their <hi>Heare<g ref="char:EOLhyphen"/>ſayes,</hi> as by the ſaid Depoſitions it doth and may appeare. Now whether De<g ref="char:EOLhyphen"/>poſitions ☞ of heare-ſayes, ought to be Balanced with Deeds, and Records, I leave it to the judgement of All truly Rationall, and underſtanding men.</p>
+            <p>However; I have here inſerted a true Copy taken out of the Booke of the Clerk of the Honourable Committee for Indempnity, by which may ap<g ref="char:EOLhyphen"/>peare
+<pb n="8" facs="tcp:152186:6"/>the Reſolutions, and Reſults of that Committee touching <hi>Bullocks</hi> Petition, &amp;c.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="resolutions">
+                        <opener>
+                           <dateline>
+                              <date>Thurſday the 20. of <hi>March,</hi> 1650.</date>
+                           </dateline>
+                        </opener>
+                        <head>Committee for Indemnity, <hi>Bullock</hi> againſt <hi>Standen.</hi>
+                        </head>
+                        <p>Councell, and Evidence heard on both ſides, upon Debate.</p>
+                        <p>Queſtion put; That it doth appeare to this Commit<g ref="char:EOLhyphen"/>tee, that there was a Morgage of the Lands in Queſtion.</p>
+                        <p>Reſolved, &amp;c. in the Negative.</p>
+                        <p>Queſtion, that there hath beene any Evidence given touching the obtaining of a corrupt Decree as is Com<g ref="char:EOLhyphen"/>plained of.</p>
+                        <p>Reſolved, &amp;c. in the Negative.</p>
+                        <p>Ordered, that the reſt of the matter of fact upon the Evidence be drawne up, and reported to the Houſe.</p>
+                        <p>Ordered, that it be referred to Mr. <hi>Richard Darley,</hi> Mr. <hi>Moyle,</hi> Mr. Luke Robinſon, and Col. <hi>Peter Temple,</hi> or any two of them, to examine the Caſe when it is drawne up to be Reported, and preſent it to the Com<g ref="char:EOLhyphen"/>mittee.</p>
+                        <closer/>
+                        <postscript>
+                           <p>
+                              <hi>Vera Copia,</hi> &amp;c.</p>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After this Hearing, and the Reſolu<g ref="char:EOLhyphen"/>tions and Orders of the aforeſaid Com<g ref="char:EOLhyphen"/>mittee; the Petitioner <hi>Bullock,</hi> and his Complices did for a while acquieſſe; But being of turbulent ſpirits, he and they move the ſaid Committee (con<g ref="char:EOLhyphen"/>ſiſting notwithſtanding of different
+<pb n="9" facs="tcp:152186:6"/>Perſons, as often it did) that the Re<g ref="char:EOLhyphen"/>port depending might be examined, and preſented to the Committee, &amp;c. Albeit on their parts, <hi>there was no matter of fact upon Evidence to be drawne up,</hi> but onely matter of <hi>Heareſayes</hi> by Depoſi<g ref="char:EOLhyphen"/>tions, <hi>the matter of fact upon the Evi<g ref="char:EOLhyphen"/>dence</hi> of Deeds, and Records being only made appeare by <hi>Standen</hi> the Defen<g ref="char:EOLhyphen"/>dant: yet the Committee for Indem<g ref="char:EOLhyphen"/>nity then ſitting, thought fit (as it ſeemes) to adde ſome other Gentlemen to the former, <hi>to Examine the Caſe, when it is drawne up to be Reported, and Preſent it,</hi> &amp;c. whereupon two of thoſe Gen<g ref="char:EOLhyphen"/>tlemen iſſued forth a Summons, in theſe words following; <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>9. of <hi>Aprill,</hi> 1652.</date>
+                           </dateline>
+                        </opener>
+                        <p>In purſuance of an Order of Reference from the Com<g ref="char:EOLhyphen"/>mittee for Indempnity bearing Date the ſecond of <hi>Aprill</hi> Inſtant, made in the cauſe betweene <hi>Edward Bullock</hi> Pe<g ref="char:EOLhyphen"/>titioner, and <hi>William Standen</hi> Defendant; we doe appoint to meet on Wedneſday next the <hi>14.</hi> of <hi>Aprill</hi> inſtant at two a Clock in the afternoone, in the Roomes called the Queens Court at <hi>Weſtminſter,</hi> to peruſe and examine the
+<pb n="10" facs="tcp:152186:7"/>Report made by the ſaid Committee; and hereof both Par<g ref="char:EOLhyphen"/>ties are to take notice, and attend us themſelves or ſome for them accordingly.</p>
+                        <argument>
+                           <p>This was Signed,
+<list>
+                                 <item>Jo: Carew.</item>
+                                 <item>Francis Allein.</item>
+                              </list>
+                           </p>
+                        </argument>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Two Gentlemen added, as aforeſaid, ſat according to the Summons; And after ſome rather talking, then Argu<g ref="char:EOLhyphen"/>ments uſed by both Parties, <hi>viz.</hi> the Petitioner and Defendant by their Councell, the <hi>Report</hi> was by thoſe Gentlemen (who were preſent at that time called for to be read, and exami<g ref="char:EOLhyphen"/>ned; The <hi>Report</hi> had beene drawne up onely by the Clerk of the Honourable Committee for Indemnity, who either by miſtake or by compliance, inſerted <hi>the Heareſayes taken in the Depoſitions on</hi> Bullock <hi>the Petitioners behalſe,</hi> (touch<g ref="char:EOLhyphen"/>ing the valews of the aforeſaid Lands, and woods) as <hi>matter of fact upon Evi<g ref="char:EOLhyphen"/>dence;</hi> which thing was different from the Order of the Committee, which ſaith, <hi>that the reſt of the mat<g ref="char:EOLhyphen"/>ter</hi>
+               <pb n="11" facs="tcp:152186:7"/>☞ <hi>of fact upon the Evidence be drawn up, and Reported unto the Houſe:</hi> The Order ſaith not; That the reſt of the matter <hi>of Heare<g ref="char:EOLhyphen"/>ſayes</hi> upon the Evidence be drawn up, and reported to the Houſe, certainly there is great difference between matter <hi>of Fact,</hi> and mat<g ref="char:EOLhyphen"/>ter of <hi>Heareſayes:</hi> Moreover the aforeſaid Clerk had omitted di<g ref="char:EOLhyphen"/>vers things, either of purpoſe, or neglect which ought to have been inſerted on the behalf of the De<g ref="char:EOLhyphen"/>fendant; and ſaid, when it was ac<g ref="char:EOLhyphen"/>cordingly urged by the Defen<g ref="char:EOLhyphen"/>dants Councell, that he deſired to compare the Report with <hi>his Book;</hi>
+               <note place="margin">It is an hard and unheard of matter, that a Clerks Book ſhould be in Nature of a Record, or <hi>warranty</hi> for matter of <hi>Title,</hi> &amp;c.</note> The Gentlemen of the Commit<g ref="char:EOLhyphen"/>tee, or ſub-Committee aforeſaid, perceiving that the matter would require ſome debate, and time, adjourned; And ſoone after the Committee for Indempnity, was
+<pb n="12" facs="tcp:152186:8"/>diſſolved by Vote of Parliament.</p>
+            <p>This is a true <hi>Narrative</hi> of the late Petitioner <hi>Bullock</hi> his procee<g ref="char:EOLhyphen"/>dings, who in his Petition ſet Forth only a <hi>Morgage</hi> and <hi>Corrupt De<g ref="char:EOLhyphen"/>cree;</hi> But at the Hearing he inſiſt<g ref="char:EOLhyphen"/>ed upon a Title, adjudged <hi>Fraudu<g ref="char:EOLhyphen"/>lent, and Null</hi> by all the Iudges of the Land, &amp; in almoſt all the Courts of Iudicature in <hi>Weſtminſter</hi> (in which <hi>William Bullock</hi> the Petiti<g ref="char:EOLhyphen"/>oners Father became moſt notori<g ref="char:EOLhyphen"/>ouſly vexatious to <hi>Ed: Standen</hi> the Purchaſer, and to <hi>William Standen</hi> his Son, by forgery, ſubornation of witneſſes, Riots, and ſuch like Pra<g ref="char:EOLhyphen"/>tices, which for their Infamy, and in jury, can hardly be parallel'd in many Ages, as by ſeverall Records, &amp; exemplifications under the Great Seales of Q. <hi>Eliz.</hi> and K. <hi>James,</hi> it doth and may appeare) and laſtly at the hearing, or <hi>Auditing</hi> of the
+<pb n="13" facs="tcp:152186:8"/>Report, the Petitioner did inſiſt upon the valews of the Lands in the Petition mentioned according to ſome Depoſitions of <hi>Hear-ſayes</hi> of his owne Kinred, and name, lately taken; whereas the contrary (if Requiſite) can be made appear; <hi>viz.</hi> That the Mannors, &amp; Lands in that Petition mentioned are not worth above 600l. <hi>per an.</hi> after above 60. years emprovement; and if the ſaid Lands were wel wooded, then were they of the leſſe yearly Pro<g ref="char:EOLhyphen"/>fit; However they that ſhall con<g ref="char:EOLhyphen"/>ſider that <hi>Bullock</hi> had, and enjoy<g ref="char:EOLhyphen"/>ed a Defeaſance of the Mannors, and Lands for his naturall life, (who might by courſe of yeares have lived a long time) that his wife had and enjoyed Right of Dower for a long continuance; that four Leaſes were in being up<g ref="char:EOLhyphen"/>on undervalew, as aforeſaid, That
+<pb n="14" facs="tcp:152186:9"/>the ſaid Lands were ſituate, and being in the Foreſt of <hi>Windſor,</hi> may indiffe<g ref="char:EOLhyphen"/>rently conclude that 4000l. was in the 31. <hi>Eliz.</hi> a valuable conſideration. Ad<g ref="char:EOLhyphen"/>mitting notwithſtanding, that the Lands were worth more; if all that have pur<g ref="char:EOLhyphen"/>chaſed Lands at an undervalue, ſhould by ſuch devices, as theſe of <hi>Bullock,</hi> be moleſted and troubled; not any free<g ref="char:EOLhyphen"/>borne Perſon of this Land can be ſe<g ref="char:EOLhyphen"/>cure of his Eſtate. For as much as the Mannors and Lands in the Petition mentioned are claimed, and held by, from, and under me (the Authour hereof) during the terme of my natu<g ref="char:EOLhyphen"/>rall life (being Cozen, and heire of <hi>William Standen</hi> late of <hi>Arberfeld,</hi> Eſq. Deceaſed) as by <hi>Deeds, and Records</hi> it doth, and may appeare; I have there<g ref="char:EOLhyphen"/>fore Publiſhed this <hi>Narrative,</hi> to un<g ref="char:EOLhyphen"/>deceive all, and ſuch whom this may any way concerne.</p>
+            <closer>
+               <dateline>
+                  <date>May 31. 1652.</date>
+               </dateline>
+               <signed>VVILLIAM BALL.</signed>
+            </closer>
+            <pb facs="tcp:152186:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
